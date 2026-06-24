@@ -1,0 +1,28 @@
+{
+  "name": "米兔段考小管家",
+  "short_name": "段考小管家",
+  "description": "米兔段考小管家 PWA 版，可安裝到桌面並離線開啟。",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "zh-Hant-TW",
+  "dir": "ltr",
+  "theme_color": "#2563eb",
+  "background_color": "#f6f7fb",
+  "icons": [
+    {
+      "src": "./icon_exam_v75_23_pwa1_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon_exam_v75_23_pwa1_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
